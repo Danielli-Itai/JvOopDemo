@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0683915-4b08-404f-b37d-1ce64bfbabbc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2NfuoozJxCbWvgF6SENkEkeKAXo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/_SourceDev.Java.Grp2",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2816092"
+  }
+}]]></component>
+  <component name="RunManager" selected="JAR Application.JvOopTest.jar (1)">
+    <configuration name="Ex0.HelloWorld.jar (1)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Ex0_HelloWorld_jar/Ex0.HelloWorld.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex0.HelloWorld.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Ex0_HelloWorld/Ex0.HelloWorld.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="JvOopTest.jar (1)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/JvOopTest.jar" />
+      <option name="PROGRAM_PARAMETERS" value="auto_run" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="JvOopTest.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Ex0_HelloWorld_jar/JvOopTest.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.JvOopTest.jar (1)" />
+        <item itemvalue="JAR Application.JvOopTest.jar" />
+        <item itemvalue="JAR Application.Ex0.HelloWorld.jar (1)" />
+        <item itemvalue="JAR Application.Ex0.HelloWorld.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0683915-4b08-404f-b37d-1ce64bfbabbc" name="Changes" comment="" />
+      <created>1680067637145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680067637145</updated>
+    </task>
+    <servers />
+  </component>
+</project>
