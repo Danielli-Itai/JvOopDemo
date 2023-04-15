@@ -4,11 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0683915-4b08-404f-b37d-1ce64bfbabbc" name="Changes" comment="" />
+    <list default="true" id="f0683915-4b08-404f-b37d-1ce64bfbabbc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0.HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0.HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0.HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0.HelloWorld/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0.HelloWorld/src/hello_world/HelloWorld.expct" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0.HelloWorld/src/hello_world/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0.HelloWorld/src/hello_world/YourName.expct" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0.HelloWorld/src/hello_world/YourName.input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex0.HelloWorld/src/hello_world/YourName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05.Classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05.Classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05.Classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05.Classes/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05.Classes/Ex05.Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05.Classes/src/pckg_telephony/PhoneCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05.Classes/src/pckg_telephony/Telephone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05.Classes/src/pckg_telephony/TelephoneMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2.LoopsAndArrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2.LoopsAndArrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2.LoopsAndArrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2.LoopsAndArrays/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2.LoopsAndArrays/Ex2.LoopsAndArrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2.LoopsAndArrays/src/pkg_arrays/DinamicArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2.LoopsAndArrays/src/pkg_arrays/IntArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2.LoopsAndArrays/src/pkg_strings/StringApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2.LoopsAndArrays/src/pkg_strings/StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2.LoopsAndArrays/src/pkg_strings/StringRef.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NfuoozJxCbWvgF6SENkEkeKAXo" />
   <component name="ProjectViewState">
@@ -23,40 +60,30 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/_SourceDev.Java.Grp2",
+    "last_opened_file_path": "D:/_SourceDev5.Java/JvOopDemo/RuntimeTester",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2816092"
   }
 }]]></component>
-  <component name="RunManager" selected="JAR Application.JvOopTest.jar (1)">
-    <configuration name="Ex0.HelloWorld.jar (1)" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Ex0_HelloWorld_jar/Ex0.HelloWorld.jar" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex0.HelloWorld.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Ex0_HelloWorld/Ex0.HelloWorld.jar" />
-      <method v="2" />
-    </configuration>
-    <configuration name="JvOopTest.jar (1)" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/JvOopTest.jar" />
-      <option name="PROGRAM_PARAMETERS" value="auto_run" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\_SourceDev5.Java\JvOopDemo\RuntimeTester" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_SourceDev5.Java\JvOopDemo\Tester" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run|TimeTester" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/RuntimeTester/JvOopTest.jar" />
+      <option name="PROGRAM_PARAMETERS" value="run_workspace" />
+      <option name="WORKING_DIRECTORY" value="D:\_SourceDev5.Java\JvOopDemo" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2" />
     </configuration>
-    <configuration name="JvOopTest.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Ex0_HelloWorld_jar/JvOopTest.jar" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JAR Application.JvOopTest.jar (1)" />
-        <item itemvalue="JAR Application.JvOopTest.jar" />
-        <item itemvalue="JAR Application.Ex0.HelloWorld.jar (1)" />
-        <item itemvalue="JAR Application.Ex0.HelloWorld.jar" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Ex01.HelloWorld</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/hello_world/HelloWorld.expct</name>
+			<type>1</type>
+			<location>D:/_SourceDev5.Java/JvOOP/Ex01.HelloWorld/src/hello_world/HelloWorld.expct</location>
+		</link>
+		<link>
+			<name>src/hello_world/YourName.expct</name>
+			<type>1</type>
+			<location>D:/_SourceDev5.Java/JvOOP/Ex01.HelloWorld/src/hello_world/YourName.expct</location>
+		</link>
+		<link>
+			<name>src/hello_world/YourName.input</name>
+			<type>1</type>
+			<location>D:/_SourceDev5.Java/JvOOP/Ex01.HelloWorld/src/hello_world/YourName.input</location>
+		</link>
+	</linkedResources>
+</projectDescription>

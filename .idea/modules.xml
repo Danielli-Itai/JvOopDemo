@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ex0.HelloWorld/Ex0.HelloWorld.iml" filepath="$PROJECT_DIR$/Ex0.HelloWorld/Ex0.HelloWorld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ex05.Classes/Ex05.Classes.iml" filepath="$PROJECT_DIR$/Ex05.Classes/Ex05.Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex2.LoopsAndArrays/Ex2.LoopsAndArrays.iml" filepath="$PROJECT_DIR$/Ex2.LoopsAndArrays/Ex2.LoopsAndArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/_SourceDev.Java1.iml" filepath="$PROJECT_DIR$/.idea/_SourceDev.Java1.iml" />
     </modules>
