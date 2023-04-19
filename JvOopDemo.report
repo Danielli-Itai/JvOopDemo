@@ -1,11 +1,1 @@
-Ok Test IO Match: "D:\_SourceDev5.Java\JvOopDemo\Ex01.HelloWorld\src\hello_world\HelloWorld.java" at: "D:\_SourceDev5.Java\JvOopDemo\Ex01.HelloWorld\src"
-Ok Test IO Match: "D:\_SourceDev5.Java\JvOopDemo\Ex01.HelloWorld\src\hello_world\YourName.java" at: "D:\_SourceDev5.Java\JvOopDemo\Ex01.HelloWorld\src"
-Ok Run app: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src\arrays_pckg\ProgressGeomet.java" at: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src"
-Ok Run app: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src\arrays_pckg\RandArray.java" at: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src"
-Ok Run app: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src\int_array\IntArray.java" at: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src"
-Ok Run app: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src\loops\Loops.java" at: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src"
-Ok Run app: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src\loops\LoopsBranch.java" at: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src"
-Ok Run app: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src\math\RandomNum.java" at: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src"
-Ok Run app: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src\string_and_arrays\SAtringMethods.java" at: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src"
-Ok Run app: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src\string_and_arrays\StringApp.java" at: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src"
-Ok Run app: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src\string_and_arrays\StringRef.java" at: "D:\_SourceDev5.Java\JvOopDemo\Ex02.LoopsAndArrays\src"
+Error: Cannot invoke "String.split(String, int)" because the return value of "java.lang.Exception.getMessage()" is null

@@ -1,0 +1,9 @@
+Result, Project, File, Workspace, Project_folder
+Ok Run app: ,Loops,.\loops\Loops.java, at: D:\_SourceDev5.Java\JvOopDemo\Ex03.ProcProgramming\src
+Ok Run app: ,LoopsBranch,.\loops\LoopsBranch.java, at: D:\_SourceDev5.Java\JvOopDemo\Ex03.ProcProgramming\src
+Ok Test IO Match: ,SimpleDialog,.\pckg1_dialog\SimpleDialog.java, at: D:\_SourceDev5.Java\JvOopDemo\Ex03.ProcProgramming\src
+Ok Test IO Match: ,SeqArith,.\pckg2_sequencs\SeqArith.java, at: D:\_SourceDev5.Java\JvOopDemo\Ex03.ProcProgramming\src
+Ok Test IO Match: ,SeqGeom,.\pckg2_sequencs\SeqGeom.java, at: D:\_SourceDev5.Java\JvOopDemo\Ex03.ProcProgramming\src
+Ok Test IO Match: ,RecursionArith,.\pckg3_sequence_rec\RecursionArith.java, at: D:\_SourceDev5.Java\JvOopDemo\Ex03.ProcProgramming\src
+Ok Test IO Match: ,FibonachiLoop,.\pckg4_fibonachi_rec\FibonachiLoop.java, at: D:\_SourceDev5.Java\JvOopDemo\Ex03.ProcProgramming\src
+Ok Test IO Match: ,FibonachiRecursive,.\pckg4_fibonachi_rec\FibonachiRecursive.java, at: D:\_SourceDev5.Java\JvOopDemo\Ex03.ProcProgramming\src
